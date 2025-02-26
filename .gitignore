@@ -1,0 +1,5 @@
+*.csv
+*.png
+
+!reports/baseline_model_report.md 
+!reports/baseline_model_report.csv
